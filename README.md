@@ -2,7 +2,7 @@
 
 This is a simple factorial calculator to learn the basics of the Rust programming language.
 
-The program has a factorial calculator in a structure to get experience with structures and recursion in Rust.
+The program has a factorial calculator in a structure to get experience with structures and recursion in Rust. Having it in a function is better, however, it allowed practice with structures and implementations.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
