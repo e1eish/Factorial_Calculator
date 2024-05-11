@@ -8,7 +8,7 @@ The program has a factorial calculator in a structure to get experience with str
 
 # Development Environment
 
-VSCode was the editor used.
+VSCode was the editor used with Cargo as the build system and package manager.
 
 # Useful Websites
 
