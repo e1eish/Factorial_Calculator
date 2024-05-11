@@ -1,7 +1,7 @@
 fn main() {
-    let x = 25;
+    let x = 5;
     // println!("{}", factorial(m)); <- for the normal function
-    let calculate = &mut FactorialCalculator {n: 25};
+    let calculate = &mut FactorialCalculator {n: x};
     println!("{}", calculate.calculate_factorial());
     println!("{}", FactorialCalculator::factorial(x))
 }
