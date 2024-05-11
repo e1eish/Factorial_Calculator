@@ -1,0 +1,1 @@
+/Users/ethan_/Documents/git/CSE_310-Applied_Programming/Factorial_Calculator/calculator/target/debug/calculator: /Users/ethan_/Documents/git/CSE_310-Applied_Programming/Factorial_Calculator/calculator/src/main.rs
