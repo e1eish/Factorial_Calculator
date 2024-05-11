@@ -16,7 +16,7 @@ VSCode was the editor used with Cargo as the build system and package manager.
 - [The Rust Style Guide](https://doc.rust-lang.org/nightly/style-guide/index.html)
 - [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/#)
-- [knoldus] (https://blog.knoldus.com/working-with-rust-understanding-struct-impl-methods-and-self/)
+- [knoldus](https://blog.knoldus.com/working-with-rust-understanding-struct-impl-methods-and-self/)
 
 # Future Work
 
