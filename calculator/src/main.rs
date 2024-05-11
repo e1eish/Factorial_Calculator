@@ -1,5 +1,5 @@
 fn main() {
-    let x = 5;
+    let x = 25;
     // println!("{}", factorial(m)); <- for the normal function
     let calculate = &mut FactorialCalculator {n: x};
     println!("{}", calculate.calculate_factorial());
